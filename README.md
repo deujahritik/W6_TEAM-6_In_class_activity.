@@ -10,7 +10,7 @@
 *This scenario demonstrates how the RC car can be used to automate plant care and reduce manual labor. By combining object detection, distance measurement, and autonomous navigation, the RC car can efficiently monitor plant growth and health, and take action when necessary. With further development and integration with other sensors and modules, such as temperature and humidity sensors, the RC car can provide even more advanced capabilities for smart plant care.*
 
 ## Steps to implement above scenario.
-* 1.Setup Raspberry Pi and RC car hardware components such as the camera, LiDAR sensor, water pump, and moisture sensor.*
+*1.Setup Raspberry Pi and RC car hardware components such as the camera, LiDAR sensor, water pump, and moisture sensor.*
 
 *2.Installing necessary software libraries and packages for object detection, distance measurement, and autonomous navigation.*
 
